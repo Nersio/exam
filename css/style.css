@@ -149,6 +149,7 @@ hr{
 .hero__right{
     width: 50%;
     overflow: hidden;
+    margin-top: -1px;
 }
 
 .hero__right:hover .hero__right__img{
